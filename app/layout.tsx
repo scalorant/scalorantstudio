@@ -23,6 +23,11 @@ export const metadata: Metadata = {
   description:
     "Scalorant helps businesses grow through digital marketing, web development, catalogue management and brand growth advisory.",
 
+  icons: {
+    icon: "/icon.png",
+  },
+};
+
   keywords: [
     "Scalorant",
     "digital marketing agency",
