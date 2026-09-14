@@ -26,7 +26,6 @@ export const metadata: Metadata = {
   icons: {
     icon: "/icon.png",
   },
-};
 
   keywords: [
     "Scalorant",
